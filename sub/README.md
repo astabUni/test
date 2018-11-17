@@ -2,4 +2,4 @@
 
 ## Checking for errors
 
-[Linking Test](google.com)
+[Linking Test](www.google.com)
